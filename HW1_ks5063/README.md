@@ -6,6 +6,6 @@
 -Add an alias by writing alias varname="command $VARNAME"
 
 ##Screenshot 1
-![Image for .bashrc](screenshot1.png)
+![Image for .bashrc](Screenshot1.png)
 ##Screenshot 2
-![Image for terminal commands](screenshot2.png)
+![Image for terminal commands](Screenshot2.png)
