@@ -7,8 +7,8 @@ ANCOVA	| 2, Mental Health, HLFC | ordinal, ordinal | 1, working full-time or no|
 # Results
 
 ## Effects of the Change in Working Status on the Health of Older People in Japan
-![Effects of the Change in Working Status on the Health of Older People in Japan](Img1.png)
+![Effects of the Change in Working Status on the Health of Older People in Japan](Img1.PNG)
 ## Correlates of Inappropriate Prescribing of Antibiotics to Patients with Malaria in Uganda
 ![Correlates of Inappropriate Prescribing of Antibiotics to Patients with Malaria in Uganda](Img2.png)
 ## Differences in Factors Affecting Various Crash Types with High Numbers of Fatalities and Injuries in China
-![Differences in Factors Affecting Various Crash Types with High Numbers of Fatalities and Injuries in China](Img3.png)
+![Differences in Factors Affecting Various Crash Types with High Numbers of Fatalities and Injuries in China](Img3.PNG)
