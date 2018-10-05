@@ -1,5 +1,6 @@
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+ANCOVA	| 2, Mental Health, HLFC | ordinal, ordinal | 1, working full-time or no| categorical | 5, sex, age, years of schooling, annual couple income, occupation (self-employed or not) | categorical, continuous, continous, continous, categorical | 	Do participants in full-time status have mental health significantly higher than control group | Mental Health test groups <= Mental Health control group, HLFC test groups <= HLFC control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
 ANCOVA	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categorical) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0062593) |
   
-  
+ 
