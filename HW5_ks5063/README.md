@@ -7,7 +7,7 @@ Markdown file for Citi Bike data was created for kp2393.
 
 * Contributing members : ks5063 and ss12513
     * ks5063 : ANCOVA and Correlation
-    * ss12512 : Logistic Regression
+    * ss12513 : Logistic Regression
 
 | **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -28,13 +28,13 @@ ANCOVA	| 2, Mental Health, HLFC | ordinal, ordinal | 1, working full-time or no|
 
 * Contributing members : ks5063 and ss12513
     * ks5063 : Z test
-    * ss12512 : Chi Square test
+    * ss12513 : Chi Square test
     
 # Assignment 4
 
 * Contributing members : ks5063 and ss12513
     * ks5063 : Both KS test and Data Transformations for Age and Boroughs.
-    * ss12512 : Spearman and Pearson Correlation and Data Transformations for Trip Duration and Time.    
+    * ss12513 : Spearman and Pearson Correlation and Data Transformations for Trip Duration and Time.    
 
     
     
