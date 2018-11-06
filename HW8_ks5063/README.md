@@ -8,6 +8,8 @@
  
 ![Create test.csv](HW8.png)
 
+## Figure 1 : Average Utility Charges across Brooklyn, Manhattan and Bronx. Brooklyn seems to have the least utility charges. Manhattan and Bronx are alternatively highest among different utilities.
+
 ## Assignment 2
 
 * Done in collaboration with Saloni Saini (ss12513).
