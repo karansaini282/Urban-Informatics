@@ -12,4 +12,4 @@
 
 ## Suggestions
 
-* Shorter trips and longer trips have been chosen as values above and below the mean value respectively. A different scheme such as quantiles (maybe 0%-25% and 75%-100%) might be worth considering to analyze extremes and get rid of near median values. 
+* Shorter trips and longer trips have been chosen as values below and above the mean value respectively. A different scheme such as quantiles (maybe 0%-25% and 75%-100%) might be worth considering to analyze extremes and get rid of near median values. 
