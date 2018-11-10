@@ -4,9 +4,11 @@
 
 ## Comments
 
-* Color pallete has been tested for color blindness.
-* There is no redundant information shown.
-* Plot includes legend, labels and title.
+CLARITY: The quantities being visualized are clear. Suggestions have been written below.
+
+ESTHETIC:  Color pallete has been tested for color blindness in mind. Suggestions have been written below.
+
+HONESTY: The plot honestly reproduces the data.
 
 ## Suggestions
 
