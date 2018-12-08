@@ -1,4 +1,4 @@
-# Homework 11 submissions
+# Homework 11 submissions (NOTE: 72 HRS extension was approved by Professor Bianco)
 
 ## Assigment 1 (ks5063, ss12513 and mp4515)
 * mp4515:
